@@ -105,3 +105,5 @@ slmgr：Windows 軟體授權相關指令。
     <li>https://blog.futrime.com/zh-cn/p/%E8%87%AA%E5%BB%BAkms%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%BF%80%E6%B4%BBwindows/</li>
     <li>https://hub.docker.com/r/mikolatero/vlmcsd/</li>
 </ol>
+
+# <a href="https://github.com/Yintc123/Others/tree/main#others">Home</a>
